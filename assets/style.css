@@ -135,6 +135,10 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 	.navbar-brand img{height: auto;}
 	.navbar-toggle{margin-top: 12px;}
 
+	.new {
+		margin-top: -4px !important;
+	}
+
 	.carousel-caption,.carousel-control,.carousel-indicators{display: none;}
 
 	h2.text-center{text-align: left;font-size: 1.7em;}
